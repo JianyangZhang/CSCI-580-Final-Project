@@ -1,7 +1,8 @@
 Linux:</br>
-install freeglut</br>
-install Xming (if use Windows and want to export display)</br>
+1. install freeglut</br>
+2. install Xming (if use Windows and want to export display)</br>
 
+commands:
 export DISPLAY=:0</br>
 ./bin_glut</br>
 
